@@ -1,7 +1,7 @@
 import argparse,sys
 import shlex
 
-# Maicker M. Ravelo Flores :) - 20210989
+
 def encriptor(unencryptedtext,n):
     result = ""
     for le in range (len(unencryptedtext)):
@@ -45,3 +45,5 @@ def run():
         
 if __name__ == '__main__':
     run()
+
+# Maicker M. Ravelo Flores :) - Dstark
